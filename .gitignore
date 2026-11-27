@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+
+# Raw data (download from Kaggle)
+data/raw/*
+!data/raw/.gitkeep
